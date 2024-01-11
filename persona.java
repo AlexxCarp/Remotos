@@ -1,4 +1,4 @@
 Public class persona{
-	Strting Nombre
-	int edad
+	Strting apellidos
+	int fechadenacimiento
 }
