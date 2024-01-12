@@ -1,4 +1,5 @@
 Public class persona{
-	Strting apellidos
-	int fechadenacimiento
+	String apellidos;
+	String Nombre;
+	int fechadenacimiento;
 }
